@@ -43,7 +43,7 @@ If you are using the code provided here in a publication, please cite our paper:
 4. For windows code, we tested with CUDA 7.5, OpenCV 3.0.0 and visual studio 2013.
    For linux code, we tested with CUDA 8.0 and OpenCV 3.0.0 under ubuntu 16.04.
 
-5. Modify the path at 7th line in Segment/kernel.cu file to your path /path/to/BSDS500/
+5. Modify the path in kernel.cu file to your path (/path/to/BSDS500/ or /path/to/image).
 
 Now, you can run it. Have fun!
 

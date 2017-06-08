@@ -1,4 +1,4 @@
-##HFS: Hierarchical Feature Selection for Efficient Image Segmentation
+## HFS: Hierarchical Feature Selection for Efficient Image Segmentation
 
 Created by Yun Liu at Nankai University
 

@@ -1,12 +1,5 @@
 #pragma once
 
-#define _CRTDBG_MAP_ALLOC
-
-#ifdef _WIN32
-#include <crtdbg.h>
-#include <SDKDDKVer.h>
-#endif
-
 #pragma warning(disable: 4996)
 #pragma warning(disable: 4995)
 #pragma warning(disable: 4805)

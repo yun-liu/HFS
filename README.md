@@ -22,7 +22,7 @@ If you are using the code provided here in a publication, please cite our paper:
     @conference{liu2018deep,
       title={DEL: Deep Embedding Learning for Efficient Image Segmentation},
       author={Yun Liu and Peng-Tao Jiang and Vahan Petrosyan and Shi-Jie Li and Jiawang Bian and Le Zhang and Ming-Ming Cheng},
-      booktitle={International Joint Conference on Artificial Intelligence (IJCAI)},
+      booktitle={International Joint Conference on Artificial Intelligence},
       pages={864--870},
       year={2018}
     }

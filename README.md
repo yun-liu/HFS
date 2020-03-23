@@ -25,6 +25,7 @@ If you are using the code provided here in a publication, please cite our paper:
       title={DEL: Deep Embedding Learning for Efficient Image Segmentation},
       author={Yun Liu and Peng-Tao Jiang and Vahan Petrosyan and Shi-Jie Li and Jiawang Bian and Le Zhang and Ming-Ming Cheng},
       booktitle={International Joint Conference on Artificial Intelligence (IJCAI)},
+      pages={864--870},
       year={2018}
     }
 

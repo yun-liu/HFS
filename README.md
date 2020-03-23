@@ -11,7 +11,7 @@ We propose a real-time system, Hierarchical Feature Selection (HFS), that perfor
 If you are using the code provided here in a publication, please cite our paper:
 
     @inproceedings{cheng2016hfs,
-      title={HFS: Hierarchical Feature Selection for Efficient Image Segmentation},
+      title={{HFS}: Hierarchical Feature Selection for Efficient Image Segmentation},
       author={Cheng, Ming-Ming and Liu, Yun and Hou, Qibin and Bian, Jiawang and Torr, Philip and Hu, Shi-Min and Tu, Zhuowen},
       booktitle={European Conference on Computer Vision},
       pages={867--882},
@@ -20,7 +20,7 @@ If you are using the code provided here in a publication, please cite our paper:
     }
     
     @conference{liu2018deep,
-      title={DEL: Deep Embedding Learning for Efficient Image Segmentation},
+      title={{DEL}: Deep Embedding Learning for Efficient Image Segmentation},
       author={Yun Liu and Peng-Tao Jiang and Vahan Petrosyan and Shi-Jie Li and Jiawang Bian and Le Zhang and Ming-Ming Cheng},
       booktitle={International Joint Conference on Artificial Intelligence},
       pages={864--870},

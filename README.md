@@ -26,6 +26,8 @@ If you are using the code provided here in a publication, please cite our paper:
       pages={864--870},
       year={2018}
     }
+    
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **We have released the code and data for plotting the edge PR curves of many existing image segmentation and edge detection methods [here](https://github.com/yun-liu/plot-edge-pr-curves).**
 
 ### Installation
 

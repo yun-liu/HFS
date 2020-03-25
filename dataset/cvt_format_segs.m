@@ -21,13 +21,5 @@ for i = 3:numel(iids)
     end
     fclose(fin);
     
-    fname = [];
-    k = 1;
-    while iids(i).name(k) == '0'
-        k = k + 1;
-    end
-    for j = k:numel(iids(i).name)
-        fname(end+1) = iids(i).name(j);
-    end
-    save([output fname '.mat'], 'segs');
+    save([output num2str(str2num(iids(i).name)) '.mat'], 'segs');
 end

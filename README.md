@@ -8,7 +8,7 @@ We propose a real-time system, Hierarchical Feature Selection (HFS), that perfor
 
 ### Citations
 
-If you are using the code provided here in a publication, please cite our paper:
+If you are using the code provided here in a publication, please consider citing:
 
     @inproceedings{cheng2016hfs,
       title={{HFS}: Hierarchical Feature Selection for Efficient Image Segmentation},

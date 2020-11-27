@@ -97,6 +97,3 @@ for r = 1:s(1)
       end
    end
 end
-
-
-

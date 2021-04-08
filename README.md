@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/yun-liu/HFS/master/HFS_sample.png" width="800">
 
+### We have released the code and data for plotting the edge PR curves of many existing image segmentation and edge detection methods [here](https://github.com/yun-liu/plot-edge-pr-curves).
+
 ### Introduction:
 
 We propose a real-time system, Hierarchical Feature Selection (HFS), that performs image segmentation at a speed of 50 frames-per-second. We make an attempt to improve the performance of previous image segmentation systems by focusing on two aspects: (1) a careful system implementation on modern GPUs for efficient feature computation; and (2) an effective hierarchical feature selection and fusion strategy with learning. Compared with classic segmentation algorithms, our system demonstrates its particular advantage in speed, with comparable results in segmentation quality. Adopting HFS in applications like salient object detection and object proposal generation results in a significant performance boost. Our proposed HFS system can be used in a variety computer vision tasks that are built on top of image segmentation and superpixel extraction. Detailed description of the system can be found in our paper.
@@ -26,8 +28,6 @@ If you are using the code provided here in a publication, please consider citing
       pages={864--870},
       year={2018}
     }
-    
-### We have released the code and data for plotting the edge PR curves of many existing image segmentation and edge detection methods [here](https://github.com/yun-liu/plot-edge-pr-curves).**
 
 ### Installation
 
